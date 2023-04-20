@@ -2,3 +2,4 @@ Fichero modificado que subiremos al repositorio
 Commit desde github.com
 Otro commit cambiando 
 Cambio para Github Desktop
+Cambio desde IDE IntelliJ
